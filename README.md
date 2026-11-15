@@ -1,18 +1,18 @@
 # Hi, I'm Mohammed Laasri
 
-I'm an information systems and cybersecurity student at ISMAGI in Morocco. I'm especially interested in cybersecurity, and I also enjoy working with cloud infrastructure, Linux, and networking.
+Cybersecurity student at ISMAGI | Network security, Linux, and cloud infrastructure.
 
-I'm looking for opportunities where I can build on my lab and internship experience in security, cloud computing, or cloud security.
+I'm looking for cybersecurity internships and junior roles where I can build on my lab and infrastructure experience.
 
 ## Selected projects
 
 | Project | What I worked on |
 |---|---|
-| [Network intrusion detection lab](https://github.com/SimoLaasri/nids-snort-network-security) | A passive Snort NIDS, custom detection rules, controlled lab traffic, and packet analysis with Wireshark. |
+| [Network intrusion detection lab](https://github.com/SimoLaasri/nids-snort-network-security) | Passive Snort detection, custom rules, and Wireshark analysis. [Replay the offline PCAP demo](https://github.com/SimoLaasri/nids-snort-network-security/tree/main/demo) to see a matching packet and a benign comparison. |
 | [OpenStack private cloud lab](https://github.com/SimoLaasri/openstack-private-cloud-lab) | Local deployment with DevStack, virtual networking, images, instances, and security groups during my ADD internship. |
-| [ESXi to KubeVirt migration lab](https://github.com/SimoLaasri/esxi-kubevirt-migration-lab) | Kubernetes setup and a VM migration workflow. The end-to-end migration was not validated because of local hardware limits. |
+| [ESXi to KubeVirt migration lab](https://github.com/SimoLaasri/esxi-kubevirt-migration-lab) | Kubernetes setup and ESXi migration preparation. The migration remained incomplete because of local resource limits. |
 
-These repositories include my French academic reports and English explanations of the work, its results, and its limitations. Where original working files are no longer available, reconstructed examples are identified clearly.
+The three labs include English READMEs and French academic reports.
 
 I also keep a [Java distributed room reservation project](https://github.com/SimoLaasri/ReservationSalle) as supporting coursework in REST, SOAP, RMI, TCP sockets, and MySQL.
 

@@ -10,7 +10,7 @@ I'm looking for cybersecurity internships and junior roles where I can build on 
 |---|---|
 | [Network intrusion detection lab](https://github.com/SimoLaasri/nids-snort-network-security) | Passive Snort detection, custom rules, and Wireshark analysis. [Replay the offline PCAP demo](https://github.com/SimoLaasri/nids-snort-network-security/tree/main/demo) to see a matching packet and a benign comparison. |
 | [OpenStack private cloud lab](https://github.com/SimoLaasri/openstack-private-cloud-lab) | Local deployment with DevStack, virtual networking, images, instances, and security groups during my ADD internship. |
-| [ESXi to KubeVirt migration lab](https://github.com/SimoLaasri/esxi-kubevirt-migration-lab) | Kubernetes setup and ESXi migration preparation. The migration remained incomplete because of local resource limits. |
+| [ESXi to KubeVirt migration lab](https://github.com/SimoLaasri/esxi-kubevirt-migration-lab) | Kubernetes and KubeVirt setup, VMware ESXi disk import preparation, and guest boot validation checks under constrained lab resources. |
 
 The three labs include English READMEs and French academic reports.
 

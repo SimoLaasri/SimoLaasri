@@ -1,27 +1,34 @@
-# Hi, I'm Mohammed Laasri
+# Mohammed Laasri
 
-Cybersecurity student at ISMAGI | Network security, Linux, and cloud infrastructure.
+**5th-Year Cybersecurity & Cloud Computing Student** · ISMAGI · Rabat, Morocco
 
-I'm looking for cybersecurity internships and junior roles where I can build on my lab and infrastructure experience.
+Focused on **network security**, **Linux systems**, and **cloud infrastructure** — preparing for a **6-month PFE internship** in Cloud Security, DevSecOps, or Security Engineering.
 
-## Selected projects
+---
 
-| Project | What I worked on |
+## Selected Projects
+
+| Project | Focus | Highlights |
+|---|---|---|
+| [**Network Intrusion Detection Lab**](https://github.com/SimoLaasri/nids-snort-network-security) | Network Security · NIDS | Passive Snort 2.9 sensor, custom detection rules, Wireshark packet analysis, and a CI-verified [offline PCAP replay demo](https://github.com/SimoLaasri/nids-snort-network-security/tree/main/demo) comparing malicious vs. benign traffic. |
+| [**OpenStack Private Cloud Lab**](https://github.com/SimoLaasri/openstack-private-cloud-lab) | Private Cloud · IaaS | ADD internship lab deploying OpenStack via DevStack with Neutron networking, routers, security groups, image management, and instance lifecycle operations. |
+| [**ESXi to KubeVirt Migration Lab**](https://github.com/SimoLaasri/esxi-kubevirt-migration-lab) | Kubernetes · Virtualization | Kubernetes (`kubeadm` + `containerd`) and KubeVirt setup, VMware ESXi disk import preparation, and guest boot validation checks under constrained lab resources. |
+| [**Distributed Room Reservation System**](https://github.com/SimoLaasri/ReservationSalle) | Distributed Systems · Java | Supporting coursework implementing REST, SOAP, Java RMI, TCP notifications, Swing UI, and MySQL persistence with automated Maven CI builds. |
+
+> The three security and cloud labs include English documentation, architecture diagrams, and French academic reports.
+
+---
+
+## Technical Stack
+
+| Domain | Technologies |
 |---|---|
-| [Network intrusion detection lab](https://github.com/SimoLaasri/nids-snort-network-security) | Passive Snort detection, custom rules, and Wireshark analysis. [Replay the offline PCAP demo](https://github.com/SimoLaasri/nids-snort-network-security/tree/main/demo) to see a matching packet and a benign comparison. |
-| [OpenStack private cloud lab](https://github.com/SimoLaasri/openstack-private-cloud-lab) | Local deployment with DevStack, virtual networking, images, instances, and security groups during my ADD internship. |
-| [ESXi to KubeVirt migration lab](https://github.com/SimoLaasri/esxi-kubevirt-migration-lab) | Kubernetes and KubeVirt setup, VMware ESXi disk import preparation, and guest boot validation checks under constrained lab resources. |
+| **Security & Networking** | Snort, Wireshark, Nmap, TCP/IP, Linux Network Configuration |
+| **Cloud & Virtualization** | OpenStack (DevStack, Neutron), Kubernetes, KubeVirt, containerd, VMware ESXi / Workstation |
+| **Development & Tooling** | Java, Bash, SQL (MySQL), Git, GitHub Actions |
 
-The three labs include English READMEs and French academic reports.
-
-I also keep a [Java distributed room reservation project](https://github.com/SimoLaasri/ReservationSalle) as supporting coursework in REST, SOAP, RMI, TCP sockets, and MySQL.
-
-## Technologies I've worked with
-
-- **Security and networking:** Snort, Wireshark, Nmap, TCP/IP, Linux network configuration.
-- **Cloud and virtualization:** OpenStack, DevStack, Kubernetes, KubeVirt, containerd, VMware.
-- **Development:** Java, SQL, Git, and Bash for lab work.
+---
 
 ## En français
 
-Je suis étudiant en systèmes d’information et cybersécurité à l’ISMAGI. Je m’intéresse surtout à la cybersécurité, tout en gardant un intérêt pour le cloud et la sécurité des infrastructures. Ce profil rassemble mes projets de laboratoire, mes stages et ce que j’en ai appris.
+Étudiant en **5ᵉ année Cybersécurité & Cloud Computing** à l’**ISMAGI (Rabat)**. Je m’intéresse particulièrement à la **sécurité cloud**, au **DevSecOps** et à la **sécurité des réseaux et infrastructures Linux**, dans le cadre de mon **stage PFE de 6 mois**. Ce profil rassemble mes projets de laboratoire, mes travaux de stage et leurs rapports techniques.
